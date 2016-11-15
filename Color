@@ -4,20 +4,25 @@ marth_color = input('Enter your preferred color of Marth.')
 
 if marth_color == 'black' or marth_color == 'Black':
 	print ('Amazing choice of skin. Beautiful.')
+	print ('Thank you for participating')
 	
 elif marth_color == 'blue' or marth_color == 'Blue':
 	print ('Just like PPU, not a bad choice.')
+	print ('Thank you for participating')
 
 elif marth_color == 'red' or marth_color == 'Red':
 	print ('Well then, you picked it I guess.')
+	print ('Thank you for participating')
 
 elif marth_color == 'green' or marth_color == 'Green':
 	print ('Really you chose that color? Atleast choose one that looks good.')
+	print ('Thank you for participating')
 
 elif marth_color == 'white' or marth_color == 'White':
 	print ('How dare you, you despicable piece of trash. You dont deserve to place Marth.')
+	print ('Thank you for participating')
 
 else:
 	print ('Do you even play this game?')
 
-print ('Thank you for participating')
+
